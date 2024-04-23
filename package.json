@@ -1,0 +1,24 @@
+{
+  "name": "cfplist",
+  "version": "1.0.0",
+  "description": "Apple's Property list parser/builder for Cloudflare Worker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nghlt/cfplist.git"
+  },
+  "keywords": [
+    "plist",
+    "cloudflare",
+    "worker"
+  ],
+  "author": "letn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nghlt/cfplist/issues"
+  },
+  "homepage": "https://github.com/nghlt/cfplist#readme"
+}
