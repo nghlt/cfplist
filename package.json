@@ -1,7 +1,7 @@
 {
   "name": "cfplist",
-  "version": "1.0.0",
-  "description": "Apple's Property list parser/builder for Cloudflare Worker",
+  "version": "1.1.0",
+  "description": "Efficient .plist Parsing and Building for Cloudflare Workers",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
